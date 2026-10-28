@@ -8,8 +8,8 @@ The project compares a baseline Analytical MPC (which assumes frictionless joint
 ## Results
 The learned model successfully captures unmodeled friction, resulting in a 60% reduction in tracking error at high friction levels compared to the analytical baseline.
 
-![Tracking Performance](figures/fig6_3_tracking.png)
-![RMSE vs Friction](figures/fig6_4_rmse_bar.png)
+![Tracking Performance](fig6_3_tracking.png)
+![RMSE vs Friction](fig6_4_rmse_bar.png)
 
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
